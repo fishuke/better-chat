@@ -13,4 +13,4 @@ Run `npm run start:dev` for a dev server. Navigate to `http://localhost:4200/`.
 
 ## Further help
 
-To get more help on contact via Discord: Fishuke#2715
+To get more help on contact via Discord: fishuke#2715
