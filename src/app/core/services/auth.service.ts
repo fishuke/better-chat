@@ -57,7 +57,7 @@ export class AuthService {
     const token = this.tokenService.getToken();
 
     if (token) {
-      this.apiService.get('kraken/user')
+      this.apiService.get('helix/user')
         .toPromise()
         .then(response => {
           this.set(response);
